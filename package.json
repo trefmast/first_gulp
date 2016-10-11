@@ -1,0 +1,11 @@
+{
+  "name": "Project",
+  "version": "0.1.0",
+  "description": "First Gulp Project",
+  "devDependencies": {
+    "browser-sync": "^2.17.2",
+    "gulp": "^3.9.1",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-sass": "^2.3.2"
+  }
+}
